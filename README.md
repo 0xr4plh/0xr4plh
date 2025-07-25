@@ -10,9 +10,7 @@ I write articles on topics related to Data Science, ML/AI on Medium. Please feel
 
 Work Experience:
 
-Machine Learning Intern at [JobTwine](https://www.jobtwine.com/) (Dec 2024 - Present)
-
-AI Intern at [Suryavanshi Ventures](https://suryavanshi.io/) (Jan 2024 - July 2024)
+Deep Learning Engineer @Invideo AI
 
 📫 Email : amannagrawall002@gmail.com
 
