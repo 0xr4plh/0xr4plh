@@ -1,33 +1,28 @@
-## Hi there 
+### Aman Agrawal
 
-Hi, I'm Aman Agrawal!
+Research Scientist at [Invideo](https://invideo.io). IIT Roorkee.
 
-I always have a lot to write, when it comes to machine learning and related stuff! Mostly you'll find me reading or sharing my learnings on topics related to AI. I like to think and solve problems via a First Principles thinking approach.
+Speech enhancement, audio signal processing, distributed training, ASR/TTS systems.
 
-I have built projects in the field of NLP and GenAI. I have industry experience in the AI domain through my internships in the NLP and GenAI field. I believe in the concept of build-in-public, so you'll find me an active guy on platforms like [Medium](https://medium.com/@amannagrawall002), [Twitter](https://x.com/r4plh), and [LinkedIn](https://www.linkedin.com/in/r4plh/) learning and sharing knowledge. I am also a contributing author at various publications including Towards Data Science.
+I build things from first principles — pen & paper before frameworks.
 
-I write articles on topics related to Data Science, ML/AI on Medium. Please feel free to see my work here! To connect via mail - amannagrawall002@gmail.com
+---
 
-Work Experience:
+**Currently**: Pre-training speech enhancement models on large GPU clusters (PyTorch DDP). Studying neural TTS and voice cloning systems end-to-end.
 
-Deep Learning Engineer @Invideo AI
+**Previously**: NLP/GenAI internships, RAG systems, semantic search, LLM fine-tuning.
 
-📫 Email : amannagrawall002@gmail.com
+---
 
+Selected work:
 
+- [**avr-audio-video-research**](https://github.com/r4plh/avr-audio-video-research) — Audio-visual research: codec evaluation, speech enhancement, sync analysis
+- [**indic-codec-eval**](https://github.com/r4plh/indic-codec-eval) — First systematic benchmark of neural audio codecs (EnCodec, DAC, SNAC) on Indian languages
+- [**justNlpThings**](https://github.com/r4plh/justNlpThings) — NLP fundamentals, from scratch
+- [**my-ml-roadmap**](https://github.com/r4plh/my-ml-roadmap) — Structured ML learning path
 
+I write on [Medium](https://medium.com/@amannagrawall002) (Towards Data Science, 25k+ views). More at [r4plh.github.io](https://r4plh.github.io).
 
-<!--
-**0xr4plh/0xr4plh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[site](https://r4plh.github.io) / [twitter](https://x.com/r4plh) / [linkedin](https://www.linkedin.com/in/r4plh/) / [email](mailto:amannagrawall002@gmail.com)
